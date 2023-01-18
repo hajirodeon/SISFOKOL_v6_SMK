@@ -1,5 +1,6 @@
-# SISFOKOL_v6_SMK
-SISFOKOL_v6_SMK
+# SISFOKOL_v6_SMK (Code:Tekniknih)
+
+SISFOKOL_v6_SMK (SIStem inFOrmasi seKOLah untuk SMK)
 
 NB. Masih dalam pengembangan. Menuju Rilis Akhir Januari 2023.
 
