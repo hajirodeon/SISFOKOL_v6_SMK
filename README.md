@@ -2,7 +2,7 @@
 
 SISFOKOL_v6_SMK (SIStem inFOrmasi seKOLah untuk SMK)
 
-NB. Masih dalam pengembangan. Menuju Rilis Awal Pebruari 2023.
+NB. Masih dalam pengembangan. Menuju Rilis Pebruari 2023 ini.
 
 ---
 
