@@ -5,7 +5,7 @@ SISFOKOL_v6_SMK (SIStem inFOrmasi seKOLah untuk SMK)
 
 NB. 
 
-Masih dalam pengembangan. Menuju Rilis : Menjelang Lebaran 2023 ini.
+Masih dalam pengembangan. Menuju Rilis : Awal Mei 2023 ini.
 
 ---
 
